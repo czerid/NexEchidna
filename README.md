@@ -1,4 +1,3 @@
-
 # NexEchidna: Artificially-Intelligent NexEchidnaHivemind Orchestrates Predictive Analytics on Edge-Computing Hubs, Empowering a Scalable, Real-Time Distributed Decision Manager Implementation
 > Advanced javascript solution leveraging modern architecture patterns and cutting-edge technology.
 
